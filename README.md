@@ -6,7 +6,7 @@
 ### Soy programador un apasionado programador Full Stack Developer de 24 años. Mi especialización se encuentra en el desarrollo con tecnologías como React, Node.js, HTML, CSS, JavaScript, Redux, Express, Sequelize y PostgreSQL, entre otras. 
 
 # Que Hago?
-### En la actualidad dedico mi 100% de mi tiempo en adquirid conocimientos y perfecionar mi codigo , aprendiendo nuevas tecnologias y  mejorando mi resolucionde problemas 
+### En la actualidad dedico mi 100% de mi tiempo en adquirid conocimientos y perfecionar mi codigo , aprendiendo nuevas tecnologias y  mejorando mi resolucion de problemas 
 
 # Por que soy programador?
 ### Mi interés por la programación surgió durante mi carrera como Técnico Electrónico, donde tuve la oportunidad de trabajar con lenguajes como C++ y Python. Descubrí la satisfacción de resolver problemas y crear código legible, eficiente y ordenado.
