@@ -12,11 +12,11 @@
 ### Mi interés por la programación surgió durante mi carrera como Técnico Electrónico, donde tuve la oportunidad de trabajar con lenguajes como C++ y Python. Descubrí la satisfacción de resolver problemas y crear código legible, eficiente y ordenado.
 
 # Que tecnologias uso ?
-### ✅ Javascript<br>
-### ✅ React.js<br>
-### ✅ Node.js<br>
-### ✅ Express.js<br>
-### ✅ PostgreSql<br>
+### ✅ Javascript
+### ✅ React.js
+### ✅ Node.js
+### ✅ Express.js
+### ✅ PostgreSql
 ### ✅ Git
 
 ### Si estás buscando un programador comprometido, apasionado por su trabajo y con habilidades técnicas sólidas, estaré encantado de formar parte de tu equipo y contribuir al éxito de tus proyectos.
